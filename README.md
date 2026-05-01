@@ -9,11 +9,14 @@
 
 ### 🧠 Tech Stack:
 
+
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"  height="40" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"  height="40" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  height="40" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  height="40" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"  height="40" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  height="40" width="40" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" />
 </p>
+
