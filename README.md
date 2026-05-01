@@ -7,7 +7,7 @@
 
 
 
-### Tech Stack:
+### 🧠 Tech Stack:
 
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"  height="40" width="40" />
