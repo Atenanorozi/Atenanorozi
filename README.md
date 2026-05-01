@@ -25,3 +25,19 @@
 ---
 
 
+🌐 Social Connections:
+
+
+<p align="center">
+  <a href="https://atena.noroziiii" target="_blank" style="margin:5px;">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
+  </a>
+  <a href="https://Atenanorozi" target="_blank" style="margin:5px;">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" height="40"/>
+  </a>
+  <a href="atenanorozi359@gmail.com" target="_blank" style="margin:5px;">
+    <img src="https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+  </a>
+</p>
+
+
