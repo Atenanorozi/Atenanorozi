@@ -6,7 +6,7 @@
 🎯 My goal is to become a professional developer and specialize in backend development.
 
 
----
+
 ## 💻  Tech Stack:
 
 
@@ -21,7 +21,8 @@
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" />
 </p>
 
----
+
+
 ## 🌐 Socials:
 
 
