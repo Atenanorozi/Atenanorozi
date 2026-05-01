@@ -7,7 +7,7 @@
 
 
 ---
-### 💻  Tech Stack:
+## 💻  Tech Stack:
 
 
 
@@ -22,7 +22,7 @@
 </p>
 
 ---
-🌐 Socials:
+## 🌐 Socials:
 
 
   <a href="atenanorozi359@gmail.com" target="_blank" style="margin:5px;">
