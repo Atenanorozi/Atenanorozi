@@ -21,6 +21,12 @@
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" />
 </p>
 
+---
+🌐 Socials:
 
+
+  <a href="atenanorozi359@gmail.com" target="_blank" style="margin:5px;">
+    <img src="https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+  </a>
 
 
