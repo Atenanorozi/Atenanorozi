@@ -6,6 +6,7 @@
 🎯 My goal is to become a professional developer and specialize in backend development.
 
 
+---
 
 ### 💻  Tech Stack:
 
