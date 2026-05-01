@@ -7,7 +7,7 @@
 
 
 
-### 🧠 Tech Stack:
+### 💻  Tech Stack:
 
 
 <p align="left">
