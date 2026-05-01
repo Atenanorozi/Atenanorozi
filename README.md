@@ -10,6 +10,7 @@
 ### 💻  Tech Stack:
 
 
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
@@ -19,6 +20,7 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" />
 </p>
+
 
 ---
 
